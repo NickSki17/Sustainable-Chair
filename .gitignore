@@ -1,0 +1,12 @@
+# Autodesk Inventor lock, backup, and recovery files
+*.lck
+*.bak
+*.old
+~$*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Common editor folders
+.vscode/
